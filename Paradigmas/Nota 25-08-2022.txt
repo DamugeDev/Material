@@ -1,0 +1,8 @@
+Conceitos de:
+	Reengenharia social
+	transmissao vs traducao
+
+Arquiteturas logicas do sitema Operativo:
+	LIFO - Last In Fast Out
+	FIFO - First In Fast Out
+	Exemplo de modelo sequncial: fila e pilha
