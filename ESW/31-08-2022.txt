@@ -1,0 +1,9 @@
+0- Referencia- ex. uc02
+1-Designaçao - nome do caso de uso
+2- Descricao
+3- Pre-condicao
+4-Fluxo (nao obrigatório ter os tres fluxos, enumerar os fluxos)
+	Normal
+	Alternativo
+	De Excepção
+5- Regras de negócio
