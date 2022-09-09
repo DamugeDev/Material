@@ -1,0 +1,8 @@
+Poli: Varias
+Morfo: Forma
+Polimorfismo - Acontece quando duas ou mais podem invocar metodos bque possuem a mesma assinatura.
+
+O polimorfismo permite-lhe tratar as generalidades e deixar que o ambiente de tempo de execução trate as especificidades.
+
+Você
+pode instruir objetos a se comportarem de maneiras apropriadas para esses objetos

@@ -1,0 +1,5 @@
+opcoes
+um traco: letras=> ls -a
+dois tracos: palavras=> ls --all
+
+TRABALHO: Estrutura de directorios do linux
