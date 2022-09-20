@@ -1,0 +1,6 @@
+Linux é Case Sensitive
+ ls . - Listar directorio actual
+ls / - listar directorio root
+
+rmdir <directorio> - remove o directorio se estiver vazio
+rmdir -p <dirpai/dirfilho> - remove o pai e os filhos

@@ -1,0 +1,7 @@
+««««««««««GRUPO2»»»»»»»»»»»»»»»»»»»
+MVP - O MVP é um conjunto de testes realizados para avaliar se um negócio ou produto é realmente viável.
+Aplicativo demo (demostracao) - demostracao de uma funcionalidate. Tem source code e CRUD. TEM VIDA
+
+------------------------------------------------------------------
+
+««««««««««««GRUPO1»»»»»»»»»»»»»»»»»
