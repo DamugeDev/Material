@@ -1,6 +1,17 @@
 Linux é Case Sensitive
+==========================================
  ls . - Listar directorio actual
 ls / - listar directorio root
+ls -la - listar directorios ocultos
+=======================================
+pwd - saber em que directorio estou
+cd .. - change directory back
+cd - voltar para directorio raiz
 
+cd <pasta> - entrar na pasta
+
+________________________________________________
+mkdir <nome> - cria directorio nome
+rm -d <nome>/ - remove o directorio nome
 rmdir <directorio> - remove o directorio se estiver vazio
 rmdir -p <dirpai/dirfilho> - remove o pai e os filhos

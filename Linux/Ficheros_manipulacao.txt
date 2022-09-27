@@ -1,0 +1,13 @@
+echo "ola mundo" - ira imprimir ola mundo
+
+echo "ola mundo" > novo.txt - ira guardar o texto "ola mundo" no ficheiro novo.txt
+
+cat novo.txt - fara a leitura do ficheiro novo.txt
+
+nano - abre o eduitor de texto na linha de comando
+
+nano ghh.txt - abre o ficheiro ghh.txt na linha de comando
+
+echo "control z" > ghh.txt - vai sobrescrever o ficheiro ghh.txt com o texto "control z"
+
+echo "control z" >> ghh.txt - vai adicionar o texto "control z"  no ficheiro ghh.txt
