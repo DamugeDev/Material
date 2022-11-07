@@ -1,0 +1,2 @@
+Hierarquia das excepções
+Classes que estão no pacote java.io

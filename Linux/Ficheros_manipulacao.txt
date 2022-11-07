@@ -4,6 +4,8 @@ echo "ola mundo" > novo.txt - ira guardar o texto "ola mundo" no ficheiro novo.t
 
 cat novo.txt - fara a leitura do ficheiro novo.txt
 
+cat novo. txt | grap texto  => ira ler as linhas em que estejam contidas a palavra "texto"
+
 nano - abre o eduitor de texto na linha de comando
 
 nano ghh.txt - abre o ficheiro ghh.txt na linha de comando

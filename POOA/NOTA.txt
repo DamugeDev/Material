@@ -1,0 +1,9 @@
+Interfaces definem e padronizam como coisas, pessoas e sistemas podem interagir entre si.
+A interface especifica quais operações uma superclasses deve permitir que as subclasses realizem, mas não especifica como essas
+operações são realizadas.
+
+Uma interface Java descreve um conjunto de métodos que pode ser
+chamado em um objeto para instruí-lo, por exemplo, a realizar alguma tarefa ou retornar algumas informações.
+
+Uma interface costuma ser utilizada no lugar de uma classe abstract quando não há nenhuma implementação padrão a
+herdar — isto é, nenhum campo e nenhuma implementação padrão de método

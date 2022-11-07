@@ -1,0 +1,11 @@
+INSTALACAO E GESTAO DE PACOTES (no linux, na distribuicao)
+Intstalacao e getao de pacotes dentro da distribuicao
+Instalacao de programas na distribuicao
+Criar slides maximo 10:
+	Falar da distribuicao
+		historico
+
+Imprimir o documento em word
+
+APRESENTACAO SERA NAS ULTIMAS SEMANAS
+	
